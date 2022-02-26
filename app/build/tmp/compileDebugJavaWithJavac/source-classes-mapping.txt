@@ -1,0 +1,19 @@
+com/example/linkwithaunties/ui/dashboard/DashboardFragment.java
+ com.example.linkwithaunties.ui.dashboard.DashboardFragment
+ com.example.linkwithaunties.ui.dashboard.DashboardFragment$1
+com/example/linkwithaunties/ui/home/HomeFragment.java
+ com.example.linkwithaunties.ui.home.HomeFragment
+ com.example.linkwithaunties.ui.home.HomeFragment$1
+com/example/linkwithaunties/ui/notifications/NotificationsFragment.java
+ com.example.linkwithaunties.ui.notifications.NotificationsFragment
+ com.example.linkwithaunties.ui.notifications.NotificationsFragment$1
+com/example/linkwithaunties/MainActivity.java
+ com.example.linkwithaunties.MainActivity
+com/example/linkwithaunties/ui/notifications/NotificationsViewModel.java
+ com.example.linkwithaunties.ui.notifications.NotificationsViewModel
+com/example/linkwithaunties/ui/dashboard/DashboardViewModel.java
+ com.example.linkwithaunties.ui.dashboard.DashboardViewModel
+com/example/linkwithaunties/ui/home/HomeViewModel.java
+ com.example.linkwithaunties.ui.home.HomeViewModel
+com/example/linkwithaunties/BuildConfig.java
+ com.example.linkwithaunties.BuildConfig
